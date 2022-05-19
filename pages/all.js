@@ -12,7 +12,7 @@ export async function getServerSideProps() {
     }
 }
 
-export default function all({initialBlogs}) {
+export default function All({initialBlogs}) {
 
     const router = useRouter();
 

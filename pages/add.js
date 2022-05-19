@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { useRouter } from "next/router"
 
-export default function add() {
+export default function Add() {
 
     const router = useRouter();
 
